@@ -29,6 +29,8 @@ body {
     display: flex;
     flex-basis: 50%;
     padding-left: 5px;
+    text-decoration: none;
+    color: #3A3E47;
 }
 
 .profile-pic {
